@@ -1,3 +1,5 @@
-# UUID                                  	Group Name
-#
-c2f616872b861d692f9a2475b8eec3b46c4fa0b5	puppet-gnocchi-distgit-ptl
+# UUID          Group Name
+6ddfecad023c6f4fa3ac8c4d2583c502ea675a73 	Non-Interactive Users
+4e43cd1eb13422eca40daae5fb6baee27634bb6e       	puppet-gnocchi-distgit-core
+c2f616872b861d692f9a2475b8eec3b46c4fa0b5        	puppet-gnocchi-distgit-ptl
+global:Registered-Users		Registered Users
