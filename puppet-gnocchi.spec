@@ -6,7 +6,7 @@ License:        Apache-2.0
 
 URL:            https://launchpad.net/puppet-gnocchi
 
-Source0:        https://github.com/openstack/puppet-gnocchi/archive/%{version}.tar.gz
+Source0:        https://tarballs.openstack.org/%{name}/%{name}-%{version}.tar.gz
 
 BuildArch:      noarch
 
