@@ -55,3 +55,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/gnocchi/
 - Update to 9.2.0
 
 
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/puppet-gnocchi/commit/?id=c0db11fc6665c39fe8de7f94aa332574b8bc0f70
