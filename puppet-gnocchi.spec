@@ -3,7 +3,7 @@ Name:           puppet-gnocchi
 Version:        10.3.0
 Release:        1%{?dist}
 Summary:        Puppet module for OpenStack Gnocchi
-License:        Apache-2.0
+License:        ASL 2.0
 
 URL:            https://launchpad.net/puppet-gnocchi
 
