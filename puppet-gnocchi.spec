@@ -64,3 +64,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/gnocchi/
 %changelog
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-gnocchi/commit/cfec496edd4f5db1de7d92c8579ca8e14f005b8b
