@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "896dd734_2523afab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2022-04-06T13:37:35Z",
+      "side": 1,
+      "message": "waiting for https://review.rdoproject.org/r/c/config/+/41588 to be merged\nthen remove the depends-on",
+      "revId": "38d9c260ee4bf64c49146045287434e5d5e6313e",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
